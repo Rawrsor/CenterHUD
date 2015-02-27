@@ -1,0 +1,14 @@
+	"Test"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"			"Test"
+			"xpos"			"c50"
+			"ypos"			"c0"
+			"zpos"			"-1"
+			"wide"			"80"
+			"tall"	 		"80"
+			"enabled"		"10
+			"visible"		"0"
+			"image"		"replay/thumbnails/CircleAnim"
+			"scaleimage"	"1"
+		}
